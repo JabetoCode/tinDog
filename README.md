@@ -1,2 +1,1 @@
-# tinDog
-Refactored TinDog website
+TinDog Starting Files
